@@ -60,19 +60,20 @@ const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 ### Contact Form UI
 
-* page_screenshot.png
+![Contact Form UI](page_screenshot.png)
 
 ### Empty Fields Validation
 
-* empty_fields_validation_screenshot.png
+![Empty Fields Validation](empty_fields_validation_screenshot.png)
 
 ### Invalid Email Validation
 
-* email_validation_screenshot.png
+![Email Validation](email_validation_screenshot.png)
 
 ### Successful Form Submission
 
-* valid_form_screenshot.png
+![Successful Submission](valid_form_screenshot.png)
+
 
 ## How to Run
 
