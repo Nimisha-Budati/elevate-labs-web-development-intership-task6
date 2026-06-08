@@ -93,6 +93,6 @@ const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 ## Author
 
-**Nimisha Budati**
+**Budati Nimisha Sri Sai**
 
 Submitted as part of the Elevate Labs Web Development Internship Program.
